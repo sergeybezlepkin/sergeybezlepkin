@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sergey Bezlepkin</h1>
-<h3 align="center">I am Lead System Engineer from Belarus</h3>
+<h3 align="center">I am Lead System Engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
