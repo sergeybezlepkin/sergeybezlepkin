@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sergey Bezlepkin</h1>
+<h1 align="center">Hi 👋, I'm Sergey</h1>
 <h3 align="center">I am System Engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
